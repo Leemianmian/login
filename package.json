@@ -1,0 +1,7 @@
+{
+  "name": "flask-login-system",
+  "private": true,
+  "scripts": {
+    "start": "python app.py"
+  }
+}
